@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StatusBarStyle</key>
+	<integer>1</integer>
+	<key>tabBar</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#1c1c25</string>
+		<key>tintColor</key>
+		<string>#2CC55C</string>
+	</dict>
+	<key>navigation</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#222230</string>
+		<key>tintColor</key>
+		<string>#FFFFFF</string>
+		<key>titleColor</key>
+		<string>#FFFFFF</string>
+	</dict>
+	<key>viewController</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string>#1a1a28</string>
+		<key>contentViewColor</key>
+		<string>#222230</string>
+		<key>inputPlaceholderColor</key>
+		<string>#49495c</string>
+		<key>inputTextColor</key>
+		<string>#FFFFFF</string>
+		<key>contentTitleColor</key>
+		<string>#8285a0</string>
+		<key>contentSubtitleColor</key>
+		<string>#8285a0</string>
+	</dict>
+	<key>tableView</key>
+	<dict>
+		<key>cellColor</key>
+		<string>#222230</string>
+		<key>cellSelectedColor</key>
+		<string>#1e1e2e</string>
+		<key>separatorColor</key>
+		<string>#303040</string>
+		<key>titleColor</key>
+		<string>#FFFFFF</string>
+		<key>subtitleColor</key>
+		<string>#8285a0</string>
+		<key>iconColor</key>
+		<string>#525467</string>
+	</dict>
+</dict>
+</plist>
